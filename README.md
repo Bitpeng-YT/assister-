@@ -70,7 +70,7 @@
    accessToken:refreshToken:privateKey
    ```
 
-2. （可选）创建 `proxies.txt` 文件，每行一个代理地址，格式为：
+2. 创建 `proxies.txt` 文件，每行一个代理地址，格式为：
    ```
    http://user:pass@host:port
    ```
